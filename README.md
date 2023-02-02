@@ -1,4 +1,4 @@
 # r-collab_jl
 
-Jelena wrote this
+Stephanie is overwriting this
 Hello. It is Stephanie.
